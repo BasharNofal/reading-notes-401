@@ -10,6 +10,8 @@
 4. No they can't because clients ports are only associated with one service where they can only receive data from one transmitter.
 5. Yes they can.
 
+<hr>
+
 ### Terms
 
 **Observer Pattern:** software design pattern where an object notifies its dependencies (Observers) in case a certain change occurs, it's usually used when having one to many relationship between objects
@@ -29,6 +31,8 @@
 **Emit/Raise/Trigger:** emit is the initiation of events, and raise them to the event queue once they are triggered.
 
 **Database:** it's where data are stored in an organized way so it will be easy to restore them.
+
+<hr>
 
 ## Preview
 
