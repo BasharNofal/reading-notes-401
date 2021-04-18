@@ -15,13 +15,13 @@
 
 3. It's a code that has a limited access to your account information which a service use to access the necessary information from your account.
 
-4. It's more secure and doesn't to ask you for your permission every time demanding for information since it has an access token.
+4. It's more secure and doesn't ask you for your permission every time demanding for information since it has an access token.
 
 ### Terms 
 
 **Client ID:** It's a unique and public identifier across all applications that is sent by the applications that tries to access your information from another service or application that you use.
 
-**Client Secret:** It's a unique and private identifier across all applications that is only known by the application and authorization server.
+**Client Secret:** It's a unique and private identifier across all applications that is only known by the authorization server.
 
 **Authentication Endpoint:** Endpoint where the user can enter his credentials in order for the authorization server to send the application an authentication code.
 
